@@ -1,10 +1,10 @@
 # Explore and manage data. Make prediction as well.
 This project is a part of the [Data Science Working Group](https://github.com/TaniaAsh/IgniteML).
 
-#### -- Project Status: [Active, On-Hold, Completed]
+#### -- Project Status: [Active]
 
 ## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+The purpose of this project is Make prediction, using Matin Learning algoritm. Use different data, such as London stock prices or Titanic passengers data and etc. make prediction the price or passenger on Titanic survived. Method in this project can be use for mo serious purposes. For example "Predict catastroffa using geodata or find cryme using photo".
 
 ### Partner
 * [Name of Partner organization/Government department etc..]
