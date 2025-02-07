@@ -68,7 +68,7 @@ The purpose of this project is Make prediction, using Matin Learning algoritm. U
 
 |Name     |  Slack Handle   | 
 |---------|-----------------|
-|[Full Name](https://github.com/[github handle])| @johnDoe        |
+|[Aleksei Shibanov]([https://github.com/[github handle]](https://github.com/geckonoff/))| @geckonoff        |
 |[Full Name](https://github.com/[github handle]) |     @janeDoe    |
 
 ## Contact
