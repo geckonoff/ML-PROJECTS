@@ -7,10 +7,9 @@ This project is a part of the [Data Science Working Group](https://github.com/Ta
 The purpose of this project is Make prediction, using Matin Learning algoritm. Use different data, such as London stock prices or Titanic passengers data and etc. make prediction the price or passenger on Titanic survived. Method in this project can be use for mo serious purposes. For example "Predict catastroffa using geodata or find cryme using photo".
 
 ### Partner
-* [Name of Partner organization/Government department etc..]
-* Website for partner
-* Partner contact: [Name of Contact], [slack handle of contact if any]
-* If you do not have a partner leave this section out
+* [BranchTrack]
+* [Website for partner](https://www.branchtrack.com/)
+* Partner contact: hello@branchtrack.com
 
 ### Methods Used
 * Inferential Statistics
