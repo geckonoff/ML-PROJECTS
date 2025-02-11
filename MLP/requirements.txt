@@ -1,0 +1,11 @@
+JPype1
+jupyter
+scipy
+pyNetLogo
+SALib
+numpy==1.23.5
+matplotlib
+pandas
+scikit-learn
+seaborn
+tensorflow
